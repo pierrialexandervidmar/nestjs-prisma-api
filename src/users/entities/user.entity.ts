@@ -6,5 +6,4 @@ export class UserEntity implements User {
     name: string;
     admin: boolean;
     createdAt: Date;
-
 }
